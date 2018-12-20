@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
-    vuforiaLicenseKey: 
-    ufoLicenseKey: QVhiM0Y1Ly8vLy8vQUFBQUtPbnFIeHJFSGs1N3VrMlg4U050eVBzK2pkOFZxMDhrazlwYjBsYS9aZUIxQlV1ckZWcWt0ZllSQWpnT2tIRlY2VzdOMDRTRjNYRUhmbTF5L1BnYlB4eWdHWEF6RUNheXowc3dyNVNYa2ozdERuRjhka1FpOHRscHdkMDcrcEJEY1FjTjNJcUM1bEgwOTYzQkdZdjRsQStRb0hSQU9nRGthelp5TlY0WHVwWU9EaE05NWw5bXAzbnBDMjM5MWZBWXBFdEdiL2loTDNab3N4b25ZblhjK1JtSS9wLzRoTDIwVGhmTXR6WFJNYkpUTXZLZzJoQ0N0TEJXNEptZ0pSOUtSdStzQWM3QjVNOWFFMGVHQ1dUT1VRSUUweEpiZC9ZL2cvS29iNDhBRXdQOGFwbWR5NmRWU0FHU2psVzRZY2FEU2Zud3J1ZHhucVNmSUZiajNTUnIzM0lKVlFIaW1rL0oyOGNFeDdyekcySXg=
+    vuforiaLicenseKey: AQoC8VD/////AAABmTHryjxyLE0dvZsFgeDahyd6tptzHPHv9NdSJjB/Q31oqbDvr54Oi3rUVvjwu7kd6EVEOovUf7stsr+0KQlsiGDqpHzeeoL4ZlNJetOX1+4g/TPg8UH0aka1H/fYG3X18BZu2d9E+RDrpDdJlJkPYHq5IT6vrnaDfHUPjxZpxXSadYDDRvRJKtw3WiuquNrDATwlJNaLmP/AY7qYO+IZGXVQfz2fQWl8HCPtDX4lZd2A+Og6Y9scpABOYMjveKAMZXUM9DYwHaBov/bBo1Sg6zwO0qwDMLOyUmXp+YkMAWt0aqLGE7BsvkbX5B5x8S5Z619R8s1DXHL4QrtUT/Y3gN1tFtPHcyr5i0prlUY3CnE3
+    ufoLicenseKey: QWNiWjFoYi8vLy8vQUFBQUtIekJaazQ3SGs2bXFoQ1dXZm05emhXT1U2T3hXalpWalBpdlZyaTBWYWhJVm94Ui96OElKK0ZKTjhHeS85OG4yMVFqam1adjh1VHpCRVVUc0ozKzJMN29JNjFvbzI4c1grd2NuZDB1VGd3Q29STXozZTV0YWFtNXUrdEVWNzlHcVppWlNlQUxSMXRFa0UxME5oMFVQc1pKUkFLSFhoeHFXR01jT295MmZzR3FvSE1oREhMcXg2dlpNSVo5b25LRFEwQ0V1YkdxeEU0MEowdHN0WlJEMHZ3bG91aE4rdHlwYyttVEFyVm1LWkgrZkRRc1pCNmxWZ2ZYMW94RHlWYzd0NElIQ0VFekJvMUhmUTMyQm9lT0FoYVdOcTRVSU5TbXdKSTRuVUF4Y05SdFRtUENnQktDUzJQaTdkeSt2TzQ0MUZTVWpxbklYUE1tS0JUZ0lTMUg4K2ZZaVh3eWQ2ZHJBazdwSTI2T3A1OFk=
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
     maxSimultaneousImageTargets: 1
@@ -22,8 +22,8 @@ MonoBehaviour:
     useDelayedLoadingObjectTargets: 0
     cameraDirection: 0
     mirrorVideoBackground: 0
-    version: 1.0.0
-    eulaAcceptedVersions: 
+    version: 7.5.26
+    eulaAcceptedVersions: '{"Values":["7.5"]}'
   digitalEyewear:
     cameraOffset: 0.06
     distortionRenderingLayer: 31
@@ -66,6 +66,6 @@ MonoBehaviour:
     autoStartTracker: 0
   webcam:
     deviceNameSetInEditor: 
-    flipHorizontally: 0
+    flipHorizontally: 1
     turnOffWebCam: 0
     renderTextureLayer: 30
