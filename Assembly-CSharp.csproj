@@ -62,6 +62,8 @@
   <ItemGroup>
     <Compile Include="Assets\AnatomyModels\code\UI_Butt_script_eyeSM.cs" />
     <Compile Include="Assets\AnatomyModels\code\UI_Butt_script_eyeSP.cs" />
+    <Compile Include="Assets\onLoad.cs" />
+    <Compile Include="Assets\VirtualButtonHandler.cs" />
     <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
     <None Include="Assets\Vuforia\Shaders\CameraDiffuse.shader" />
     <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
